@@ -27,7 +27,7 @@ body, a:link, a:visited, a:active{
 .dancer{
   border:10px solid red;
   border-radius:10px;
-  position:absolute;
+  position: absolute;
 
 }
 
@@ -38,4 +38,14 @@ body, a:link, a:visited, a:active{
 .bouncy img {
   height: 150px;
   width: 150px;
+}
+
+.moving {
+  border: 30px solid white;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.active {
+  background: white;
 }
